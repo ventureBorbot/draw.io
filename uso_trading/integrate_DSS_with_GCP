@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T16:23:33.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="xHKICnz6lLsKL5xUZiR4" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T16:34:30.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="6i1Bauvg7CyuckyYKhTp" version="17.2.1" type="github">
   <diagram id="utDMo_DZzv36MB9lgBWb" name="Page-1">
     <mxGraphModel dx="1374" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="KD9G-7kspFixx27rg9By-1" target="y1Cu-Dhgo3X4k9ABBTla-1">
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00FF00;" edge="1" parent="1" source="KD9G-7kspFixx27rg9By-1" target="y1Cu-Dhgo3X4k9ABBTla-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD9G-7kspFixx27rg9By-1" value="GPC: Streaming Commodity Data&lt;br&gt;(15 min intervals)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="290" y="120" width="150" height="130" as="geometry" />
+          <mxGeometry x="80" y="39" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="y1Cu-Dhgo3X4k9ABBTla-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="y1Cu-Dhgo3X4k9ABBTla-1" target="y1Cu-Dhgo3X4k9ABBTla-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1Cu-Dhgo3X4k9ABBTla-1" value="GCP: Static &lt;br&gt;Commodity Data (aggregated)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="150" height="130" as="geometry" />
+          <mxGeometry x="80" y="229" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="y1Cu-Dhgo3X4k9ABBTla-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="y1Cu-Dhgo3X4k9ABBTla-3" target="y1Cu-Dhgo3X4k9ABBTla-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-3" value="Dataiku Dataset:&lt;br&gt;&lt;a href=&quot;https://applx005.usoil.local:10000/admin/connections/list/&quot;&gt;Connections&lt;/a&gt;&lt;br&gt;GCP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="510" y="310" width="150" height="130" as="geometry" />
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-3" value="Dataiku Trade Dataset:&lt;br&gt;&lt;a href=&quot;https://applx005.usoil.local:10000/admin/connections/list/&quot;&gt;Connections&lt;/a&gt;&lt;br&gt;GCP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="229" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-5" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="525" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="y1Cu-Dhgo3X4k9ABBTla-5" target="y1Cu-Dhgo3X4k9ABBTla-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-5" value="Pickle Trade&lt;br&gt;Datasets" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="413.5" width="165" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-8" value="Create Train/Test Datasets&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
