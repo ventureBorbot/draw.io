@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T14:47:56.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="qfbDUYxLap8ricBMwC6b" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T15:29:07.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="rzfHrNZw4T3DAsgTBQVQ" version="17.2.1" type="github">
   <diagram id="utDMo_DZzv36MB9lgBWb" name="Page-1">
     <mxGraphModel dx="1374" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KD9G-7kspFixx27rg9By-1" value="GPC: Commodity Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD9G-7kspFixx27rg9By-1" target="y1Cu-Dhgo3X4k9ABBTla-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KD9G-7kspFixx27rg9By-1" value="GPC: Streaming Commodity Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-1" value="GCP: Static Commodity Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
