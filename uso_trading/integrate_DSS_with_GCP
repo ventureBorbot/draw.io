@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T16:19:25.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="kkqJZ_U02P07IpzsslWJ" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T16:23:33.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="xHKICnz6lLsKL5xUZiR4" version="17.2.1" type="github">
   <diagram id="utDMo_DZzv36MB9lgBWb" name="Page-1">
     <mxGraphModel dx="1374" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="y1Cu-Dhgo3X4k9ABBTla-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="y1Cu-Dhgo3X4k9ABBTla-1" target="y1Cu-Dhgo3X4k9ABBTla-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-1" value="GCP: Static Commodity Data (aggregated)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="y1Cu-Dhgo3X4k9ABBTla-1" value="GCP: Static &lt;br&gt;Commodity Data (aggregated)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="y1Cu-Dhgo3X4k9ABBTla-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" source="y1Cu-Dhgo3X4k9ABBTla-3" target="y1Cu-Dhgo3X4k9ABBTla-5">
